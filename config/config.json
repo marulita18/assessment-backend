@@ -1,6 +1,6 @@
 {
   "development": {
-    "url": "YOUR_ELEPHANTSQL_URL_HERE",
+    "url": "postgres://unscmibu:gYt4bMloc58bPZAOiKr2K4Knkc4ZlGYM@hattie.db.elephantsql.com/unscmibu",
     "dialect": "postgres",
     "operatorsAliases": "0"
   },
